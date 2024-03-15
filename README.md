@@ -1,1 +1,1 @@
-Data Analysis Project in Excel
+Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more saes in 2023
